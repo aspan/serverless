@@ -1,0 +1,4 @@
+### GET request to ping service
+GET http://localhost:3000/hello?name=kalle
+
+###
